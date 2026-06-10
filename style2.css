@@ -92,7 +92,7 @@ body.fade-in {
 }
 
 .acte1 {
-
+z-index:0;
     height: 100vh;
     width: 100vw;
     background-size: cover;
